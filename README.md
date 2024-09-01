@@ -15,6 +15,7 @@ Este repositorio es el repositorio oficial de Bot&Tech Jr
 ## 2024
 
 [Agosto](retos-mensuales/2024/agosto/)
+[Septiembre](retos-mensuales/2024/septiembre/)
 
 ## Participar
 
